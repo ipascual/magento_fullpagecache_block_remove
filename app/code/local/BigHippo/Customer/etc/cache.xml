@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <placeholders>
+        <customer_form_login>
+            <block>customer/form_login</block>
+            <placeholder>CUSTOMER_MINI_FORM_LOGIN</placeholder>
+            <container>Enterprise_PageCache_Model_Container_Sidebar_Cart</container>
+            <cache_lifetime>86400</cache_lifetime>
+        </customer_form_login>
+    </placeholders>
+</config>
